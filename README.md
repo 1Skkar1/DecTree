@@ -1,5 +1,5 @@
 # DecTree
-Second Project - Artificial Intelligence - Decision Tree
+Artificial Intelligence - Second Project - Decision Tree
 May 2nd 2019
 
 ### Compile:
