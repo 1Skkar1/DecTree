@@ -15,6 +15,7 @@ When the main file (***DecTree.java***) is compiled, the secondary folder (***Co
 After compiling, the program is intuitive and provides step-by-step instructions.
 
 Once the program asks for the name of a file please supply its extension.
+
 **Example:**
 ```bash
 weather.csv
