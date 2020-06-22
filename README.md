@@ -1,7 +1,7 @@
-# DecTree
+# DecisionTree
 Artificial Intelligence - Third Project - Decision Tree
 
-May 2nd 2019
+Date: ***May 2nd 2019***
 
 ### Compile:
 
